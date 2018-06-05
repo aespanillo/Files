@@ -5,9 +5,8 @@ Day 1 - Going to Palawan
 1340 ETD MIA-PPS
 1510 ETA PPS Airport
 1600 ETD PPS - EL NIDO
-1900 Stopover/Dinner
-2200 ETA EL Nido Town Proper, go to our hotel
-2300 Hotel/Rest and Lights out
+2200 ETA EL Nido Town Proper, go to P Gomez Inn
+2300 P Gomez Inn/Rest and Lights out
 
 Day 2 - El Nido Tour A (Big Lagoon, Small Lagoon, Simizu Island, Secret Lagoon and 7 Commandos Beach)
 
@@ -35,7 +34,7 @@ Day 3 - El Nido Tour B (Entalula Island, Pinagbuyutan Island, Snake Island, Cudu
 2030 Free time
 2200 Rest/Lights out
 
-Day 4 - El Nido Tour C (Hidden Beach, Helicopter Island, Secret Beach, Matinloc Shrine and Star Beach)
+Day 4 - El Nido Tour C (Secret Beach, Helicopter Island, Secret Beach, Matinloc Shrine and Star Beach)
 
 0600 Wakeup
 0630 Breakfast
@@ -45,8 +44,7 @@ Day 4 - El Nido Tour C (Hidden Beach, Helicopter Island, Secret Beach, Matinloc 
 1700 End of El Nido Tour C
 1730 Preparation for going back to PPS
 1830 ETD El Nido to PPS
-1930 Stopover/Dinner
-0030 ETA PPS
+0030 ETA 
 
 
 Day 5 - Puerto Princesa Subterranean River Tour
@@ -56,10 +54,24 @@ Day 5 - Puerto Princesa Subterranean River Tour
 0700 ETD PPS Hotel 
 0900 ETA Underground River
 1000 Underground River Tour
-1130 Lunch
-1230 Ugong Rock/Sabang Falls/Sabang Beach
-1500 ETD 
-
+1200 Lunch
+1300 Ugong Rock/Sabang Falls/Sabang Beach
+1600 ETD Sabang port to PPS
+1800 ETA PPS
+1900 Dinner
+2000 Free Time
+2200 Rest/Lights out
 
 Day 6 - Puerto Princesa City Tour (PPS Cathedral, Butterfly Sanctuary, Croc Farm, Baker’s Hill etc)
 
+0700 Wakeup
+0730 Breakfast
+0830 Preparation
+0930 Start of City Tour
+1600 End of City Tour
+1700 Pasalubong
+1800 Pack up things/prepare to go home
+1900 ETD PPS - Airport
+2000 ETA Airport
+2105 ETD PPS-MIA
+2235 ETD MIA
